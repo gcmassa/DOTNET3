@@ -1,5 +1,3 @@
-📄 Nome sugerido do arquivo: Explicativo_Codigo_CSharp.md
-
 # 🧾 Explicativo do Código em C#
 
 Este documento descreve o funcionamento do código fornecido, utilizando dos recursos de operadores condicionais.
