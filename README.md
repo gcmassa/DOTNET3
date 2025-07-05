@@ -1,6 +1,6 @@
 # 🧾 Explicativo do Código em C#
 
-Este documento descreve o funcionamento do código fornecido, utilizando dos recursos de operadores condicionais.
+Este documento descreve o funcionamento do código, utilizando dos recursos de operadores condicionais.
 
 ---
 
